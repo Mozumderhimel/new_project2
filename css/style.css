@@ -1,0 +1,46 @@
+*{
+    margin:0;
+}
+.div1{
+    text-align: center;
+    
+}
+.div2{
+    text-align: center;
+    margin-bottom:5%;
+}
+.span1{
+    color: blue;
+}
+.span2{
+    color: red;
+}
+.span3{
+    color: green;
+}
+.span4{
+    color: yellow;
+}
+
+.div3{
+   
+    margin-left:9%;
+    width: auto;
+    
+     
+}
+.div4{
+    margin-left:9%;
+}
+.div5{
+    height:300%;
+    width:40%;
+    background-color: green;
+    text-align: center;
+    margin: auto;
+    margin-bottom:5%;
+    color: white;
+}
+
+
+
